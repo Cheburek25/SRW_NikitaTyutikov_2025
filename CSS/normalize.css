@@ -1,0 +1,41 @@
+body {
+    font-family: monospace;
+    text-transform: uppercase;
+    
+    }
+
+
+header {
+    width: 70%;
+    height: auto;
+    padding: 0 15%;
+    }
+
+
+main, footer {
+    width: 100%;
+    height: auto;
+    }
+
+section {
+    width: 70%;
+    height: auto;
+    }
+
+
+h2 {
+    padding: 20px 0;
+    font-style: 2em;
+    
+}
+
+p {
+    width: 100%;
+    height: auto;
+}
+
+
+a {
+    text-decoration: none;
+    font-size: 1em;
+}
